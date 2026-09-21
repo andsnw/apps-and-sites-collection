@@ -288,8 +288,12 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LloydAsp/nfd) [NFD](https://github.com/LloydAsp/nfd) 一个基于cloudflare worker的Telegram消息转发bot，集成了反欺诈功能
 - 站点统计
   - [Google Analytics](https://marketingplatform.google.com)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/electerious/Ackee) [Ackee](https://github.com/electerious/Ackee) 这是一款自托管的开源统计工具，可以在你自己的服务器上搭建，提供了强大的个性化定制和隐私保护功能
-  - [Clarity统计](https://clarity.microsoft.com) 微软推出的统计工具，而且在大陆访问体验很好 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/electerious/Ackee) [Ackee](https://github.com/electerious/Ackee) 自托管的开源统计工具，个性化定制和隐私保护功能
+  - [Clarity统计](https://clarity.microsoft.com) 微软推出的统计工具，大陆访问体验好 ⭐
+
+数据大屏
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dataease/dataease) [dataease](https://github.com/dataease/dataease)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/metabase/metabase) [metabase](https://github.com/metabase/metabase)
 
 ### 🔗Domain registration 域名注册
 
@@ -939,6 +943,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app) [OpenSpot Music](https://github.com/BlackHatDevX/openspot-music-app)
 - [DeepMusic](https://apps.apple.com/us/app/deepmusic-immersive-lyrics/id6760999336) (iOS) 已内购
 - Telisten (iOS) 播放Telegram频道的音乐
+- [Nobars](https://apps.apple.com/us/app/offline-music-player-nobars/id6805929959) (iOS)
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1361,20 +1366,18 @@ Enjoy 🤩
 - [Mailbox.org](https://mailbox.org)
 - [StartMail](https://www.startmail.com) 每月2.5USD
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bkaankose/Wino-Mail) [Wino Mail](https://github.com/bkaankose/Wino-Mail) (Windows) 三账号以上需要购买高级版
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/M66B/FairEmail) [FairEmail](https://github.com/M66B/FairEmail) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) 支持Tuta和ProtonMail，Unofficial ProtonMail Desktop App
 - [PreVeil](https://www.preveil.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。超过六个月未访问帐户会删除，用户订阅付费版本则允许恢复。
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。超过六个月未访问帐户会删除，用户订阅付费版本则允许恢复
 - [Guerrilla Mail](https://www.guerrillamail.com)
 - [ProtonMail](https://protonapps.com) 位于瑞士的安全电子邮件 ⭐
 - [Mailfence](https://mailfence.com) 位于比利时的OpenPGP电子邮件服务
 - [Fastmail](https://www.fastmail.com)
 - [Zoho Mail](https://www.zoho.com)
 - [Rackspace](https://apps.rackspace.com/login)
-- [Airmail](https://airmailapp.com) (macOS, iOS)
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
-- [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控
+- [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控 free plan(1 GB, 2 aliases, 3 folders)
 
 #### Desktop Email Clients 邮件客户端
 
@@ -1382,7 +1385,9 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
 - [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
 - [Missive](https://missiveapp.com) 需付费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Windows)
 - [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
+- [Airmail](https://airmailapp.com) (macOS, iOS) Mail Client
 - [Edison Mail](https://www.edisonmail.com)
 - [BlueMail](https://bluemail.me) (Windows, macOS, iOS, Android)
 - [eM Client](https://www.emclient.com) Free license is limited for personal, non‑commercial use.
@@ -2033,11 +2038,12 @@ Enjoy 🤩
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
+  - [CrestBrowser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS) 
 
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃 ⭐
-    - [Mozilla Firefox, Portable Edition](https://portableapps.com/apps/internet/firefox_portable)
+    - [Mozilla Firefox Portable Edition](https://portableapps.com/apps/internet/firefox_portable)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minh-ton/reynard-browser) [Reynard Browser](https://github.com/minh-ton/reynard-browser) (iOS) Gecko-based web browser for iOS 13+ ⭐
