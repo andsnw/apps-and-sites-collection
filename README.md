@@ -87,10 +87,11 @@ Enjoy 🤩
 - [Synopsia](https://apps.apple.com/us/app/synopsia-book-summaries/id6448647429) (iOS)
 - [奇点阅读](https://apps.apple.com/app/id6651841743) (iOS)
 - [Eleven Reader](https://apps.apple.com/app/id6479373050) 32种语言的数十种声音朗读书籍、文章和PDF
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/omnivore-app/omnivore) [Omnivore](https://github.com/omnivore-app/omnivore) 稍后阅读工具，已被ElevenLabs收购，停止维护
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/omnivore-app/omnivore) [Omnivore](https://github.com/omnivore-app/omnivore) 稍后阅读工具，已被ElevenLabs收购
 - [读不舍手](https://apps.apple.com/app/id1662413517) (iOS) 仅支持txt
 - [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
 - [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/santinic/audiblez) [audiblez](https://github.com/santinic/audiblez)Generate audiobooks from e-books
 
 ### 📓Library Resource Repository 图书资源库
 
@@ -944,6 +945,7 @@ Enjoy 🤩
 - [DeepMusic](https://apps.apple.com/us/app/deepmusic-immersive-lyrics/id6760999336) (iOS) 已内购
 - Telisten (iOS) 播放Telegram频道的音乐
 - [Nobars](https://apps.apple.com/us/app/offline-music-player-nobars/id6805929959) (iOS)
+- [musicDownload](https://github.com/MrsEWE44/musicDownload) 音乐下载器
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1104,6 +1106,7 @@ Enjoy 🤩
 ### 🎥Video Edit 音视频剪辑软件
 
 - [kdenlive](https://kdenlive.org/zh) KDE Non-Linear Video Editor 非线性视频编辑器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AIEraDev/Clypra) [Clypra](https://github.com/AIEraDev/Clypra) A hardware-accelerated video editor
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenShot/openshot-qt) [OpenShot](https://github.com/OpenShot/openshot-qt) (Linux, macOS, and Windows) ⭐
 - [Lightworks](https://lwks.com)
 - [Shotcut](https://shotcut.org)
@@ -1118,7 +1121,7 @@ Enjoy 🤩
 - [SAMPLITUDE](https://www.magix.com/us/music-editing/samplitude) 录音混响
 - [Wondershare Filmora](https://filmora.wondershare.com) 剪辑
 - [XMedia Recode](https://www.xmedia-recode.de/en) 视频处理
-- [Mp3tag](https://www.mp3tag.de/en) 音频标签编辑器
+- [Mp3tag](https://www.mp3tag.de/en) 音频标签编辑器 ⭐
 - [Monkey&#39;s Audio](https://www.monkeysaudio.com) 无损音频压缩 Lossless audio compressor
 - [Kid3](https://kid3.kde.org) Linux音频标签处理
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fxsound2/fxsound-app) [FxSound](https://github.com/fxsound2/fxsound-app) 用于提高音质、音量和低音的免费软件。包括均衡器、效果和定制音频预设
@@ -1833,6 +1836,8 @@ Enjoy 🤩
 ### 🧹Clean 软件卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck) [optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AdventDevInc/kudu) [kudu](https://github.com/AdventDevInc/kudu) (Windows, macOS and Linux) system cleaner and security scanner
 - [Geek Uninstaller](https://geekuninstaller.com)
 - [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 去除不必要的系统冗余
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guhcostan/windows-cleaner-cli) [Windows Cleaner CLI](https://github.com/guhcostan/windows-cleaner-cli) Windows cleanup tool
@@ -1938,18 +1943,18 @@ Enjoy 🤩
   - [ascii2d.net](https://ascii2d.net) 以图搜图 仅限P站以及X
   - [iqdb.org](https://iqdb.org) 不完整图片、完整图片 图库不全
 
-- ⛏️Dig 数据信息挖掘
-
-- [中国执行信息公开网](https://zxgk.court.gov.cn)
-- 企业查询：[天眼查](https://www.tianyancha.com), [爱企查](https://aiqicha.baidu.com), [企查查](https://www.qcc.com)
-- [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww)
-- [水滴信用](https://shuidi.cn)
-- [国家企业信用信息公示系统](https://www.gsxt.gov.cn)
-- [中国裁判文书网](https://wenshu.court.gov.cn)
-- [国家知识产权局](https://cnipa.gov.cn)
-- [国家版权局](https://ncac.gov.cn)
-- [信用中国](https://creditchina.gov.cn)
-- [民政部](https://mca.gov.cn/index.html)
+- ⛏️Dig 数据信息挖掘 人肉搜索
+ - ![GitHub Repo stars](https://img.shields.io/github/stars/soxoj/maigret) [maigret](https://github.com/soxoj/maigret) 通过用户名从6K网站收集一个人的档案
+ - [中国执行信息公开网](https://zxgk.court.gov.cn)
+ - 企业查询：[天眼查](https://www.tianyancha.com), [爱企查](https://aiqicha.baidu.com), [企查查](https://www.qcc.com)
+ - [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww)
+ - [水滴信用](https://shuidi.cn)
+ - [国家企业信用信息公示系统](https://www.gsxt.gov.cn)
+ - [中国裁判文书网](https://wenshu.court.gov.cn)
+ - [国家知识产权局](https://cnipa.gov.cn)
+ -  [国家版权局](https://ncac.gov.cn)
+ - [信用中国](https://creditchina.gov.cn)
+ - [民政部](https://mca.gov.cn/index.html)
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板 🖱️Remote Mouse 远程鼠标
 
@@ -1981,6 +1986,7 @@ Enjoy 🤩
 - [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
 - [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AprilNEA/OpenLogi) [OpenLogi](https://github.com/AprilNEA/OpenLogi) 开源的 Logitech Options+ 替代工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Nuitfanee/ClickSync) [ClickSync](https://github.com/Nuitfanee/ClickSync) 多品牌鼠标网页驱动控制台
 
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
@@ -2348,6 +2354,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [nexdm](https://nexdm.in) (Windows)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo) [plexo](https://github.com/anmolkapil/plexo) (Windows, macOS, and Linux) 通过并行合并多个网络连接加快下载速度
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
 - [4K Video Downloader](https://www.4kdownload.com)
@@ -2367,7 +2374,7 @@ Enjoy 🤩
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
 
 - 🗃️Archived
@@ -2499,13 +2506,17 @@ Enjoy 🤩
   - [App Store 网页版](https://apps.apple.com)
   - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS) 限免 最后更新Oct 7, 2024
   - [AltStore](https://altstore.io) 应用商店，欧盟地区可用
+  - [SideStore](https://sidestore.io/)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/FrizzleM/SideInstaller) [SideInstaller](https://github.com/FrizzleM/SideInstaller) An an app that installs Sidestore on iOS 27, fully on-device
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/Asspp) [Asspp](https://github.com/Lakr233/Asspp) 一个界面管理多个 Apple ID，还能获取历史版本
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
+
   - [Indie App Santa](https://apps.apple.com/us/app/indie-app-santa/id1594011307) APP限免
   - [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
   - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
   - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
+
 
   - IPA签名工具
     - ![GitHub Repo stars](https://img.shields.io/github/stars/missuo/resign) [IPA-Resign](https://github.com/missuo/resign)
@@ -2621,6 +2632,8 @@ Enjoy 🤩
 - 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
 - WrtHub (iOS) OpenWrt管理应用
 
+
+- [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) 专门给晶晨 Amlogic S9xxx 系列电视盒子构建 Armbian（Debian/Ubuntu）Linux 系统 的开源项目
 ## 🎮Games 游戏
 
 ### 🃏游戏平台
@@ -2639,6 +2652,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot) [Godot](https://github.com/godotengine/godot) 开源游戏引擎
 - [Warsow](https://www.warsow.net) 免费和快节奏的FPS游戏
 - [XBOX](https://www.xbox.com) 微软旗下的游戏主机品牌
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bobeff/open-source-games) [open-source-games](https://github.com/bobeff/open-source-games) 
 
 ### 🕹️Game Tool 游戏工具
 
