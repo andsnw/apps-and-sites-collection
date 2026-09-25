@@ -1473,6 +1473,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Windows, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) 需付费 A KeePass/Password Safe Client
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
+  - [awesome-keepass](https://github.com/lgg/awesome-keepass) Curated list of KeePass-related projects
 - ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
 - [Enpass](https://www.enpass.io) (Windows, macOS, Linux) 可以设置webdav同步
 - [pwSafe - Password Safe](https://pwsafe.org) pwSafe
@@ -1837,6 +1838,7 @@ Enjoy 🤩
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck) [optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk) [MangoDisk](https://github.com/harry0703/MangoDisk) (Windows, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AdventDevInc/kudu) [kudu](https://github.com/AdventDevInc/kudu) (Windows, macOS and Linux) system cleaner and security scanner
 - [Geek Uninstaller](https://geekuninstaller.com)
 - [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 去除不必要的系统冗余
@@ -2005,6 +2007,7 @@ Enjoy 🤩
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
     - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
+    - [brave-debloater](https://github.com/Anxarden/brave-debloater)
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
   - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex自动翻译。建议至少每6个月登录一次 ⭐
@@ -2194,6 +2197,7 @@ Enjoy 🤩
 - [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hmjz100/LinkSwift) [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于JavaScript的网盘文件下载地址获取工具
 - [X-Accounts-Based-in-China-Auto-Mute](https://github.com/anonym-g/X-Accounts-Based-in-China-Auto-Mute) Auto-Mute CCP troll X (Twitter) accounts.
+- [ig-helper](https://github.com/SN-Koarashi/ig-helper) download from Instagram
 
 - Imagus Similar Imagusextensions and Scripts:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn) ⭐
@@ -2330,8 +2334,9 @@ Enjoy 🤩
 - [Blip Transfer](https://blip.net) 即传即下，边传边下，No waiting to upload and download separately ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/abhi16180/photon) [Photon](https://github.com/abhi16180/photon)
 - [Smash](https://fromsmash.com) 免费2G文件传输
-- [tailcat](https://github.com/tailscale/tailcat)
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tailscale/tailcat) [tailcat](https://github.com/tailscale/tailcat)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/denislupookov/altersend) [altersend](https://github.com/denislupookov/altersend)Send files directly between devices over the internet - no cloud storage, no size limits.
+-
 - 🗃️Archived
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) (Android) 通过 Magic Wormhole 协议创建的应用程序，2023年最后更新
 
@@ -2487,6 +2492,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition) [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) Win10/Win11 数字权利（数字许可证）激活工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts) [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator) [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 可永久激活Windows 11和Microsoft Office
+  - [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) 增强微软官方 Media Creation Tool (MCT) 媒体创建工具
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery) 重装系统
 
 ### 🍎Apple
